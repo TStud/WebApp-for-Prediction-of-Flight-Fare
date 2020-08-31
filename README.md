@@ -34,4 +34,4 @@ python app.py
 
 ## Technologies and Frameworks used
 ![Image of Technologies](https://theforetech.com/wp-content/uploads/2020/09/tech2.png)
-Made with  ♥️  in India
+Made with  ♥️  in India 🇮🇳
